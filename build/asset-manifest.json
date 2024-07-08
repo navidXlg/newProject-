@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Richify/static/css/main.0fa2299d.css",
+    "main.js": "/Richify/static/js/main.1f61191f.js",
+    "static/media/loginPic.jpg": "/Richify/static/media/loginPic.01c12bf1b595a2fb9888.jpg",
+    "static/media/background.jpg": "/Richify/static/media/background.5181e325004efc006cc9.jpg",
+    "index.html": "/Richify/index.html",
+    "main.0fa2299d.css.map": "/Richify/static/css/main.0fa2299d.css.map",
+    "main.1f61191f.js.map": "/Richify/static/js/main.1f61191f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa2299d.css",
+    "static/js/main.1f61191f.js"
+  ]
+}
